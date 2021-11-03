@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859650616605",
+    "project_id": "fcm-besquare-8d297",
+    "storage_bucket": "fcm-besquare-8d297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859650616605:android:a6c4b2b4b6b03d9dd1c5f4",
+        "android_client_info": {
+          "package_name": "com.example.connect_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859650616605-d6gham6mn29nun9tnhfrmj80efv69vm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7v3p6ItxVKqhOBCWjFmvpqHTx-ZcvJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859650616605-d6gham6mn29nun9tnhfrmj80efv69vm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
